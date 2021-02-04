@@ -128,3 +128,4 @@ btn.addEventListener('click', function () {
 });
 
 getCountryData('sweden');
+getCountryData('sweden');
